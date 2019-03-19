@@ -1,0 +1,57 @@
+## my project
+
+## generic
+._*
+
+## sqlite
+*.sqlite
+
+## c++
+cmake_install.cmake
+CMakeCache.txt
+CMakeFiles
+*.app
+build
+*.[oa]
+
+#ios
+Pods
+Podfile.lock
+
+#node.js
+node_modules
+
+
+# xcode
+xcode
+xcuserdata
+xcshareddata
+*.mode1
+*.mode1v3
+*.mode2v3
+*.perspective
+*.perspectivev3
+*.pbxuser
+
+# codeblocks
+gmon.out
+
+### - mac - ###
+.DS_Store
+
+
+# repositories
+.hg
+.svn
+CVS
+
+# automatic backup files
+*~.nib
+*.swp
+*~
+*(Autosaved).rtfd/
+Backup[ ]of[ ]*.pages/
+Backup[ ]of[ ]*.key/
+Backup[ ]of[ ]*.numbers/
+
+
