@@ -1,0 +1,17 @@
+## https://expressjs.com/en/starter/generator.html
+
+# install Express.js
+npm install express-generator -g
+
+# use Express to make a project
+# express --view=pug project_name
+express --view=pug myapp
+
+#
+# at this point the project isn't quite setup yet. the node.js project has a list of dependencies it needs to download and install into the local folder.
+npm install
+
+#
+# at this point, the project should be able to run with: (defaults to port 3000)
+npm start
+
