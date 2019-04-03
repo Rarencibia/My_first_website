@@ -1,17 +1,24 @@
+/*Colors and gives font to the main body*/
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-  background: url("../images/mainbackground.jpeg")no-repeat fixed;
-  background-position: center;
-  background-color: #7FFFD4
+  background-color: black;
+}
+.center {
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width;
 }
 
 a {
   color: #00B7FF;
 }
+
+/*This is for the navigation bar*/
 /* Add a black background color to the top navigation */
 .topnav {
-  background-color: #000000;
+  background-color: black;
   overflow: hidden;
 }
 
@@ -35,4 +42,13 @@ a {
 .topnav a.active {
   background-color: #4CAF50;
   color: white;
+}
+
+
+.tophead {
+  text-align: center;
+  padding: 50px;
+  font: "Lucida Grande", Helvetica, Arial, sans-serif;
+  color: black;
+  background-color: white;
 }
