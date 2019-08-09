@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-09T21:04:30+09:30
+
+====== front end web ======
+Created Friday 09 August 2019
+
+[[+webpage_design]]
+[[+webpage_layout]]
+
+[[+sending_requests_to_the_server]]
+[[+displaying_server_responses]]
+

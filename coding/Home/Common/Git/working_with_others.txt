@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-09T21:12:39+09:30
+
+====== working with others ======
+Created Friday 09 August 2019
+
+
+[[+Branches]]
+[[+how_do_you_merge]]
+[[+file_merge_tool]]
+
+https://nvie.com/posts/a-successful-git-branching-model/

@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-09T21:14:48+09:30
+
+====== alternatives ======
+Created Friday 09 August 2019
+
+---
+- cvs (super old)
+- svn (old)
+
+People who use these tools may know what they're doing, but they certainly aren't with the times. Git is the only reasonable option. You may be forced into using svn if you're unlucky, and cvs if you killed a native american tribe and pissed on their corpses in a past life. They're basically just bad, old, not-as-good-as-git's.
+

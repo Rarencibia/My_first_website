@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-09T21:04:50+09:30
+
+====== databases ======
+Created Friday 09 August 2019
+
+[[+sqlite]]

@@ -1,0 +1,30 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-09T21:01:31+09:30
+
+====== RESTful design ======
+Created Friday 09 August 2019
+
+
+"RESTful" refers to a way of laying out different html requests. 
+
+HTML requests include a 'html header' and a 'html body'. 
+The header can be GET/POST/PULL/PUT/DELETE.
+The data can be anything.
+
+Restul is an attempt of standardising what a request looks like.
+
+The basic idea is that the HTML header should describe what the request does. GET should never write data, DELETE should delete that record, PUT should update a piece of data. Some people are very strict with these, some people don't really care, and they just use POST for everything (but that isn't really "RESTful").
+
+For example, here is a list of commands:
+
+POST www.url.com/users/new
+POST www.url.com/users/new
+GET www.url.com/users/1
+GET www.url.com/users/2
+GET www.url.com/users/1/friends
+PUT www.url.com/users/1/
+	{
+		"name": "max"
+	}
+POST www.url.com/users/1/friends/2

@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-09T20:55:38+09:30
+
+====== sqlite ======
+Created Friday 09 August 2019
+
+Other Databases to be aware of
+[[+SQL]]
+[[+MySQL]]
+
+
+[[+schemas]]
+[[+create_table]]
+[[+drop_table]]
+[[+insert]]
+[[+select]]

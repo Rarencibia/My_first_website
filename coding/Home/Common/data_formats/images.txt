@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-09T21:18:47+09:30
+
+====== images ======
+Created Friday 09 August 2019
+
+
+Images, I go with .png every time. 
+The types of image matters quite a bit. Image formats are either compressed, or they are not. Most are compressed.
+
+There's 2 types of compression. Lossy and Lossless. Lossy means that when you compress the file, the image looks worse when you view it. Lossless means that you don't lose data when you compress, so the image quality does not get affected. I don't have a list of lossy vs lossless formats, but I just always use png, I trust it, and it works perfectly.

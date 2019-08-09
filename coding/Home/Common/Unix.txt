@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-09T21:17:04+09:30
+
+====== Unix ======
+Created Friday 09 August 2019
+
+
+.profile / .bashrc - configuration
+apt install
+git

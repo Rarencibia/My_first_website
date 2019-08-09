@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-09T20:55:22+09:30
+
+====== back end web ======
+Created Friday 09 August 2019
+
+
+[[+databases]]
+[[+basic_security]]
+[[+requests]]
+[[+responses]]
+[[+restful_design]]
+
+

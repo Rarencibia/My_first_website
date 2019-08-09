@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-09T21:01:57+09:30
+
+====== requests ======
+Created Friday 09 August 2019
+
+if someone sends a request to your server, how do you catch it and react to it?

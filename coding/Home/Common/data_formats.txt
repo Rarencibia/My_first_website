@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-09T20:58:49+09:30
+
+====== data formats ======
+Created Friday 09 August 2019
+
+These are the big 3 data formats you're ever going to care about, not including images.
+
+[[+json]]
+[[+xml]]
+[[+sqlite]]
+
+
+[[+images]]
+

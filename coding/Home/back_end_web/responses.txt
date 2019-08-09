@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-09T21:02:35+09:30
+
+====== responses ======
+Created Friday 09 August 2019
+
+When a client asks for data, what data should you send them?

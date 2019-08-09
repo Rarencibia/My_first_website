@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-09T20:52:30+09:30
+
+====== Git ======
+Created Friday 09 August 2019
+
+
+[[+gitignore]]
+[[+commands]]
+
+[[+working_with_others]]
+
+
+[[+alternatives]]
